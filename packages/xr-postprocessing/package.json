@@ -1,6 +1,6 @@
 {
   "name": "xr-postprocessing",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "🥽 Declarative WebXR-compatible postprocessing effects for React Three Fiber. Stereo-aware visual effects that work seamlessly in VR/AR and standard 3D rendering.",
   "author": "Tomas Ferreras",
   "license": "MIT",
