@@ -16,11 +16,11 @@ Bring stunning visual effects to your VR/AR experiences with stereo-aware postpr
 ## 📦 Installation
 
 ```bash
-npm install three @react-three/fiber xr-postprocessing@latest 
+npm install three @react-three/fiber @react-three/xr xr-postprocessing@latest 
 # or
-pnpm add three @react-three/fiber xr-postprocessing@latest
+pnpm add three @react-three/fiber @react-three/xr xr-postprocessing@latest
 # or
-yarn add three @react-three/fiber xr-postprocessing@latest
+yarn add three @react-three/fiber @react-three/xr xr-postprocessing@latest
 ```
 
 ## 🎮 Quick Start
