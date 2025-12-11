@@ -229,20 +229,3 @@ MIT © 2025
 ## 🙏 Credits
 
 Heavily inspired by [@pmndrs/postprocessing](https://github.com/pmndrs/react-postprocessing) and built for the amazing [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) ecosystem.
-
-## 🐛 Known Limitations
-
-- Only one effect can be active at a time (no effect chaining yet)
-- Some parameters cannot be changed after effect initialization
-
-## 🚀 Roadmap
-
-- [ ] Effect chaining support
-- [ ] More built-in effects (SSAO, DOF, etc.)
-- [ ] Performance monitoring tools
-- [ ] Better TypeScript types
-- [ ] More examples
-
-## 🤝 Contributing
-
-Contributions welcome! Please feel free to submit a Pull Request.
