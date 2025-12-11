@@ -1,0 +1,46 @@
+{
+  "name": "xr-postprocessing",
+  "version": "0.1.0",
+  "description": "🥽 Declarative WebXR-compatible postprocessing effects for React Three Fiber. Stereo-aware visual effects that work seamlessly in VR/AR and standard 3D rendering.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "peerDependencies": {
+    "@react-three/fiber": "^8.0.0",
+    "react": "^18.0.0",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@react-three/fiber": "^8.15.0",
+    "@types/react": "^18.2.0",
+    "@types/three": "^0.160.0",
+    "react": "^18.2.0",
+    "three": "^0.160.0",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  },
+  "keywords": [
+    "react",
+    "three",
+    "react-three-fiber",
+    "3d",
+    "webxr",
+    "postprocessing",
+    "effects",
+    "bloom",
+    "vr",
+    "ar"
+  ],
+  "license": "MIT"
+}
